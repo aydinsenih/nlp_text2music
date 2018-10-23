@@ -1,0 +1,126 @@
+  bayram_ISIM   havas_ISIM   es_FIIL #  ortam_ISIM   neşe_ISIM   sevinç_ISIM   bir_SAYI   durum_ISIM   gel_FIIL 
+  bülbül_ISIM   gibi_EDAT   şakı_FIIL #  güzel_SIFAT   sesle_FIIL   neşe_ISIM   konuş_FIIL 
+  gönül_ISIM   eğle_FIIL #  mutlu_SIFAT   neşe_ISIM   vakit_ISIM   geçir_FIIL 
+  göz_ISIM   gönül_ISIM   aç_FIIL #  neşelen_FIIL   ferahla_FIIL 
+  gül_FIIL   oyna_FIIL #  neşe_ISIM   sevinç_ISIM   keyif_ISIM   güzel_SIFAT   vakit_ISIM   geçir_FIIL 
+  havas_ISIM   bul_FIIL #  keyiflen_FIIL   neşelen_FIIL 
+  keyfi_ISIM   yer_ISIM #  sağlık_ISIM   neşe_ISIM   mutlu_SIFAT   bulun_FIIL 
+  keyif_ISIM   ver_FIIL #  neşe_ISIM   ver_FIIL   sarhoş_ISIM   et_FIIL 
+  neşe_ISIM   bul_FIIL #  neşe_ISIM   bir_SAYI   durum_ISIM   gel_FIIL   neşelen_FIIL 
+  renk_ISIM   kat_FIIL #  neşe_ISIM   canlı_SIFAT   veya_ISIM   değişik_ISIM   kazan_FIIL 
+  renk_ISIM   ver_FIIL #  neşe_ISIM   canlı_SIFAT   veya_ISIM   değişik_ISIM   kazan_FIIL 
+  ruh_ISIM   kazan_FIIL #  herhangi_ISIM   bir_SAYI   yer_ISIM   veya_ISIM   şey_ISIM   canlı_SIFAT   hareket_ISIM   neşe_ISIM   bir_SAYI   durum_ISIM   getir_FIIL 
+  ruh_ISIM   güneş_ISIM   aç_FIIL #  sevin_FIIL   neşelen_FIIL   coş_FIIL 
+  şevk_ISIM   gel_FIIL #  neşelen_FIIL 
+  yanık_ISIM   yerin_FIIL   ot_ISIM   tez_ISIM   bit_FIIL #  kişi_ISIM   yürek_ISIM   yaka_ISIM   acı_FIIL   az_FIIL   zaman_ZAMAN   sonra_ZAMAN   külle_FIIL   yer_ISIM   yeni_ISIM   ve_ISIM   neşe_ISIM   duygu_ISIM   bırak_FIIL 
+  etek_ISIM   zil_ISIM   çal_FIIL #  çok_ SIFAT  neşe_ISIM  mutlu_SIFAT ol_FIIL 
+  analı_ISIM   kuzu_ISIM   kına_FIIL   kuzu_ISIM #  anne_ISIM   sağ_FIIL   ol_FIIL   çocuk_ISIM   mutlu_SIFAT   anlat_FIIL   bir_SAYI   söz_ISIM 
+  ayak_ISIM   yer_ISIM   kes_FIIL #  çok_SIFAT   mutlu_SIFAT   ol_FIIL 
+  baş_ISIM   dön_FIIL #  başarı_ISIM   gurur_ISIM   sevinç_ISIM   çok_SIFAT   mutlu_SIFAT   durum_ISIM   getir_FIIL   aşırı_ISIM   heyecanlan_FIIL 
+  baş_ISIM   dön_FIIL #  mutlu_SIFAT   yarı_ISIM   sarhoş_ISIM   durum_ISIM   getir_FIIL 
+  yüz_SAYI   güldür_FIIL #  biri_ISIM   mutlu_SIFAT   et_FIIL   biri_ISIM   iyi_SIFAT   et_FIIL 
+  darı_ISIM   baş_ISIM #  bir_SAYI   başarı_ISIM   bir_SAYI   mutlu_SIFAT   başka_SIFAT   için_ISIM   iste_FIIL   söylen_FIIL   bir_SAYI   söz_ISIM 
+  dünya_ISIM   tat_ISIM   çıkar_FIIL #  bütün_ISIM   zevk_ISIM   yararlan_FIIL   mutlu_SIFAT   ve_ISIM   rahat_SIFAT   yaşa_FIIL 
+  felek_ISIM   kimi_ISIM   kavun_ISIM   ye_FIIL   kimi_ISIM   kelek_ISIM #  bu_ZAMIR   dünya_ISIM   kimi_ISIM   insan_ISIM   mutlu_SIFAT   içinde_ISIM   yaşa_FIIL   kimi_ISIM   de_FIIL   talih_ISIM_YOKLUK
+  gönül_ISIM   eğle_FIIL #  mutlu_SIFAT   neşe_ISIM   vakit_ISIM   geçir_FIIL 
+  keyfi_ISIM   yer_ISIM   ol_FIIL #  sağlık_ISIM   neşe_ISIM   mutlu_SIFAT   bulun_FIIL 
+  keyfi_ISIM   de_FIIL   ol_FIIL_OLUMSUZ#  mutlu_SIFAT   ve_ISIM   huzur_ISIM   ol_FIIL 
+  kıvanç_ISIM   duy_FIIL #  sevin_FIIL   mutlu_SIFAT   ol_FIIL 
+  ömür_ISIM   ömür_ISIM   kat_FIIL #  sevin_FIIL   mutlu_SIFAT   ol_FIIL   sebep_ISIM   ol_FIIL 
+  akıl_ISIM   çık_FIIL #  sonuç_ISIM   kötü_SIFAT   ol_FIIL   düşün_FIIL   korku_ISIM   kapıl_FIIL 
+  at_ISIM   ata_ISIM   katır_ISIM   ana_ISIM #  soylu_ISIM   kişi_ISIM   kork_FIIL_OLUMSUZ  soysuz_ISIM   kişi_ISIM   kork_FIIL 
+  bir_SAYI   dudak_ISIM   yer_ISIM   bir_SAYI   dudak_ISIM   gök_ISIM #  masal_ISIM   dev_ISIM   gibi_EDAT   korkunç_ISIM   ve_ISIM   çirkin_SIFAT 
+  gözdağı_ISIM   ver_FIIL #  sonra_ZAMAN   ver_FIIL   bir_SAYI   ceza_ISIM   ile_EDAT   korkut_FIIL   yıl_FIIL   tehdit_ISIM   et_FIIL   caydır_FIIL_OLUMSUZ  çalış_FIIL 
+  ödün_ISIM   kopar_FIIL #  çok_SIFAT   korkut_FIIL 
+  can_ISIM   ağız_ISIM   gel_FIIL #  büyük_SIFAT   bir_SAYI   tehlike_ISIM   karşı_ISIM   öl_FIIL   gibi_EDAT   bir_SAYI   korku_ISIM   kapıl_FIIL 
+  can_ISIM   dert_ISIM   düş_FIIL #  ölüm_ISIM   korku_ISIM   kapıl_FIIL 
+  çarpıntı_ISIM   tut_FIIL #  heyecan_ISIM   korku_ISIM   veya_ISIM   üzüntü_ISIM   çarpıntı_ISIM   nöbet_ISIM   gel_FIIL 
+  dana_ISIM   kuyruk_ISIM   kop_FIIL #  bekle_FIIL   veya_ISIM   korku_ISIM   sonuç_ISIM   gerçekle_FIIL 
+  dehşet_ISIM   saç_FIIL #  ortalık_ISIM   korku_ISIM   ver_FIIL 
+  dehşet_ISIM   düşür_FIIL #  çok_SIFAT   korkut_FIIL   dehşet_ISIM   kapıl_FIIL   sebep_ISIM   ol_FIIL 
+  dil_ISIM   yut_FIIL #  sevinç_ISIM   korku_ISIM   heyecan_ISIM   sebep_ISIM   konuş_FIIL_OLUMSUZ  ol_FIIL 
+  ejder_ISIM   gibi_EDAT #  iri_SIFAT   yapı_ISIM   ve_ISIM   korkunç_ISIM   görünüş_ISIM 
+  el_ISIM   ayak_ISIM   titre_FIIL #  korku_ISIM   sinir_ISIM   sebep_ISIM   heyecanlan_FIIL 
+  eşkıya_ISIM   gibi_EDAT #  yüz_SAYI   bakış_ISIM   ve_ISIM   kılık_ISIM   korkunç_ISIM   ol_FIIL 
+  göz_ISIM   yıl_FIIL #  korkut_FIIL 
+  hart_ISIM   hurt_ISIM   et_FIIL #  korkut_FIIL   amaç_ISIM 
+  haydut_ISIM   gibi_EDAT #  insan_ISIM   korku_ISIM   vere_ISIM 
+  höt_ISIM   de_FIIL #  gözdağı_ISIM   ver_FIIL   korkut_FIIL 
+  nutuk_ISIM   tut_FIIL #  korku_ISIM   şaşkın_ISIM   ve_ISIM   öfke_ISIM   konuş_FIIL_OLUMSUZ  ol_FIIL 
+  ölüm_ISIM   soluk_ISIM   ense_ISIM   hisset_FIIL #  her_ISIM   an_FIIL   öl_FIIL   bekle_FIIL   ölüm_ISIM   korku_ISIM   ile_EDAT   dolu_ISIM   ol_FIIL 
+  panik_ISIM   yarat_FIIL #  korku_ISIM   dehşet_ISIM   uyan_FIIL 
+  pıt_ISIM   pıt_ISIM   at_FIIL #  korku_ISIM   heyecan_ISIM   bir_SAYI   sebep_ISIM   kalbi_ISIM   fazla_SIFAT   çarp_FIIL 
+  posta_ISIM   koy_FIIL #  biri_ISIM   korkut_FIIL 
+  gözdağı_ISIM   ver_FIIL #  biri_ISIM   korkut_FIIL 
+  pusu_ISIM   yat_FIIL #  kork_FIIL 
+  renk_ISIM   renk_ISIM   gir_FIIL #  korku_ISIM   veya_ISIM   utanç_ISIM   yüz_SAYI   renk_ISIM   değiş_FIIL   sıkıl_FIIL 
+  soluk_ISIM   kes_FIIL #  bir_SAYI   şey_ISIM   çok_SIFAT   heyecan_ISIM   veya_ISIM   korku_ISIM   ver_FIIL 
+  tehdit_ISIM   savur_FIIL #  korkut_FIIL   gözdağı_ISIM   ver_FIIL 
+  tırnak_ISIM   göster_FIIL #  korkut_FIIL   gözdağı_ISIM   ver_FIIL 
+  tohum_ISIM   dök_FIIL #  geçir_FIIL   büyük_SIFAT   bir_SAYI   korku_ISIM 
+  tüy_ISIM   ürper_FIIL #  kötü_SIFAT   bir_SAYI   olay_ISIM   soğuk_ISIM   gıcıkla_FIIL   sebep_ISIM   korku_ISIM   veya_ISIM   tiksinti_ISIM   duy_FIIL 
+  ürperti_ISIM   ver_FIIL #  korkut_FIIL 
+  vehim_ISIM   kapıl_FIIL #  korku_ISIM   kapıl_FIIL 
+  yumruk_ISIM   göster_FIIL #  korkut_FIIL   gözdağı_ISIM   ver_FIIL 
+  yürek_ISIM   ağız_ISIM   gel_FIIL #  birdenbire_ISIM   çok_SIFAT   kork_FIIL   aşırı_ISIM   korku_ISIM   veya_ISIM   sevinç_ISIM   fazla_SIFAT   heyecanlan_FIIL   endişelen_FIIL 
+  yüz_SAYI   sarar_FIIL #  korku_ISIM   üzüntü_ISIM   coşku_ISIM   vb_KISALTMA   sebep_ISIM   yüz_FIIL   renk_ISIM   sol_FIIL 
+  zılgıt_ISIM   ver_FIIL #  korkut_FIIL   çıkış_FIIL   azarla_FIIL   gözdağı_ISIM   ver_FIIL 
+  bir_SAYI   hoş_ISIM   eyle_FIIL #  hüzünlen_FIIL 
+  bir_SAYI   hoş_ISIM   ol_FIIL #  şaşır_FIIL  null  hüzünlen_FIIL 
+  acı_ISIM   için_ISIM   çök_FIIL #  kötü_SIFAT   bir_SAYI   şey_ISIM   ol_FIIL   düşün_FIIL   önce_ZAMAN   üzül_FIIL 
+  acı_ISIM   yürek_ISIM   çök_FIIL #  kötü_SIFAT   bir_SAYI   şey_ISIM   ol_FIIL   düşün_FIIL   önce_ZAMAN   üzül_FIIL 
+  altüst_SIFAT   ol_FIIL #  üzül_FIIL   tedirgin_SIFAT 
+  azap_ISIM   duy_FIIL #  acı_FIIL   çek_FIIL   üzül_FIIL 
+  bağır_ISIM   ez_FIIL #  üzül_FIIL   dertlen_FIIL 
+  beyin_ISIM   şimşek_ISIM   çakmak_ISIM #  çok_SIFAT   üzül_FIIL   sarsıl_FIIL 
+  biber_ISIM   gibi_EDAT   yan_FIIL #  çok_SIFAT   üzül_FIIL   dertlen_FIIL 
+  burun_ISIM   direk_ISIM   sızla_FIIL #  maddi_ISIM   veya_ISIM   manevi_SIFAT   çok_SIFAT   acı_FIIL   duy_FIIL   çok_SIFAT   üzül_FIIL 
+  divane_ISIM   dön_FIIL #  çok_SIFAT   üzül_FIIL 
+  fena_SIFAT   git_FIIL #  üzül_FIIL   gücen_FIIL   kır_FIIL   sinirlen_FIIL 
+  gam_ISIM   çek_FIIL #  tasalan_FIIL   kaygılan_FIIL   üzül_FIIL_OLUMSUZ
+  gönül_ISIM   kır_FIIL #  üzül_FIIL   incin_FIIL   yerin_FIIL 
+  gönül_ISIM   dokun_FIIL #  üzül_FIIL   rahat_SIFAT_YOKLUK  duy_FIIL 
+  iç_ISIM   burk_FIIL #  bir_SAYI   şey_ISIM   çok_SIFAT   üzül_FIIL  null
+  iç_ISIM   eri_FIIL #  kaygı_ISIM   duy_FIIL   çok_SIFAT   üzül_FIIL 
+  iç_ISIM   için_ISIM   yemek_ISIM #  iste_FIIL   yap_FIIL_OLUMSUZ  yüz_SAYI   üzül_FIIL 
+  iç_ISIM   parala_FIIL #  biri_ISIM   acı_FIIL   çok_SIFAT   üzül_FIIL 
+  iç_ISIM   sızla_FIIL #  bir_SAYI   şey_ISIM   veya_ISIM   kişi_ISIM   için_ISIM   çok_SIFAT   üzül_FIIL 
+  iç_ISIM   yan_FIIL #  büyük_SIFAT   bir_SAYI   acı_FIIL   sıkıntı_ISIM   vb_KISALTMA   neden_ISIM   çok_SIFAT   üzül_FIIL 
+  kahır_ISIM   öl_FIIL #  çok_SIFAT   üzül_FIIL 
+  rahat_SIFAT   kaç_FIIL #  rahat_SIFAT_YOKLUK  tedirgin_SIFAT   ol_FIIL   üzül_FIIL 
+  saç_ISIM   baş_ISIM   yol_FIIL #  çok_SIFAT   üzül_FIIL   üzüntü_ISIM   dövün_FIIL 
+  sarsıntı_ISIM   geçir_FIIL #  çok_SIFAT   etkile_FIIL   üzül_FIIL 
+  tasa_ISIM   çek_FIIL #  kaygılan_FIIL   üzüntü_ISIM   içinde_ISIM   ol_FIIL   üzül_FIIL  null
+  tatlı_SIFAT   can_ISIM   sık_FIIL #  gerek_ISIM_YOKLUK  şey_ISIM   üzül_FIIL   ve_ISIM   bu_ZAMIR   dert_ISIM   edin_FIIL 
+  teessüf_ISIM   et_FIIL #  acı_FIIL   üzül_FIIL   yazıklan_FIIL 
+  vicdan_ISIM   azap_ISIM   çek_FIIL #  kötü_SIFAT   bir_SAYI   işte_ISIM   dolayı_ISIM   üzül_FIIL   pişman_ISIM   duy_FIIL 
+  yürek_ISIM   burk_FIIL #  çok_SIFAT   üzül_FIIL   çok_SIFAT   acı_FIIL   duy_FIIL 
+  yürek_ISIM   ez_FIIL #  üzül_FIIL   acı_FIIL   duy_FIIL 
+  yürek_ISIM   kan_FIIL   ağla_FIIL #  derin_SIFAT   acı_FIIL   duy_FIIL   çok_SIFAT   üzül_FIIL 
+  yürek_ISIM   sızla_FIIL #  çok_SIFAT   acı_FIIL   çok_SIFAT   üzül_FIIL  null
+  yürek_ISIM   dokun_FIIL #  üzül_FIIL 
+  yürek_ISIM   kar_FIIL   yağ_FIIL #  kıskanç_ISIM   duy_FIIL   üzül_FIIL 
+  yürek_ISIM   ateş_ISIM   düş_FIIL #  felaket_ISIM   uğra_FIIL   çok_SIFAT   üzül_FIIL 
+  yürek_ISIM   ateş_ISIM   al_FIIL #  aşırı_ISIM   üzül_FIIL   fazla_SIFAT   üzüntü_ISIM   iç_ISIM   yan_FIIL 
+  yürek_ISIM   yağ_ISIM   eri_FIIL #  çok_SIFAT  null  kork_FIIL 
+  bir_SAYI   selam_ISIM   bin_FIIL   hatır_YANKI   yap_FIIL #  selam_ISIM   bir_SAYI   ilgi_ISIM   ve_ISIM   sevgi_ISIM   belirti_ISIM   gönül_ISIM   kazan_FIIL   büyük_SIFAT   önem_ISIM   var_FIIL 
+  kanı_ISIM   kayna_FIIL #  çabucak_SIFAT   sevgi_ISIM   duy_FIIL 
+  kol_ISIM   aç_FIIL #  içten_ISIM   karşıla_FIIL   veya_ISIM   kucakla_FIIL_OLUMSUZ  hazırla_FIIL   sevgi_ISIM   ve_ISIM   dost_ISIM   göster_FIIL 
+  el_ISIM   üstün_SIFAT   tut_FIIL #  bir_SAYI   kimse_ISIM   çok_SIFAT   saygı_ISIM   ve_ISIM   sevgi_ISIM   göster_FIIL 
+  göz_ISIM   gir_FIIL #  sevgi_ISIM   ve_ISIM   ilgi_ISIM   kazan_FIIL 
+  kalbi_ISIM   doldur_FIIL #  yürek_ISIM   sevgi_ISIM   ısıt_FIIL 
+  büyük_SIFAT   el_ISIM   küçük_ISIM   göz_ISIM   öp_FIIL #  saygı_ISIM   ve_ISIM   sevgi_ISIM   göster_FIIL 
+  ciğer_ISIM   köşe_ISIM #  çok_SIFAT   sev_FIIL  null
+  gönül_ISIM   ak_FIIL #  biri_ISIM   karşı_ISIM   güçlü_SIFAT   sevgi_ISIM   duy_FIIL 
+  kalbi_ISIM   çal_FIIL #  sevgi_ISIM   kazan_FIIL   kendi_ISIM   aşık_ISIM   et_FIIL 
+  mavi_SIFAT   boncuk_ISIM   dağıt_FIIL #  birçok_ISIM   kişi_ISIM   bir_SAYI   sevgi_ISIM   göster_FIIL   ve_ISIM   söz_ISIM   konu_ISIM   kişi_ISIM   bu_ZAMIR   sevgi_ISIM   yalnız_BAGLAC   kendi_ISIM 
+  muhabbet_ISIM   besle_FIIL #  sevgi_ISIM   duy_FIIL 
+  sempati_ISIM   kazan_FIIL #  biri_ISIM   sevgi_ISIM   ilgi_ISIM   ve_ISIM   yakın_SIFAT   kazan_FIIL 
+  yakın_SIFAT   göster_FIIL #  biri_ISIM   ilgilen_FIIL   sevgi_ISIM   davran_FIIL 
+  vücut_ISIM   koca_FIIL   gönül_ISIM   koca_FIIL_OLUMSUZ#  kişi_ISIM   ihtiyarla_FIIL   ama_ISIM   gönül_ISIM   taze_SIFAT   kal_FIIL   sevgi_ISIM   eksil_FIIL_OLUMSUZ
+  alkış_ISIM   tufan_ISIM   kop_FIIL #  sürekli_ISIM   ve_ISIM   coşkun_ISIM   alkış_ISIM   başla_FIIL 
+  aşk_ISIM   gel_FIIL #  bir_SAYI   şey_ISIM   yap_FIIL   için_ISIM   büyük_SIFAT   bir_SAYI   istek_ISIM   duy_FIIL   coş_FIIL   coşkun_ISIM   göster_FIIL 
+  bahar_ISIM   baş_ISIM   vur_FIIL #  genç_ISIM   ver_FIIL   coşku_ISIM   gerek_ISIM_YOKLUK  veya_ISIM   aşırı_ISIM   davran_FIIL   bulun_FIIL 
+  kanı_ISIM   kayna_FIIL #  coşkun_ISIM   ve_ISIM   kıpırdak_ISIM   ol_FIIL 
+  göğüs_ISIM   yırt_FIIL #  coşkun_ISIM   ortay_ISIM   koy_FIIL   coş_FIIL   cıvıl_YANKI 
+  iç_ISIM   için_ISIM   sığ_FIIL_OLUMSUZ#  telaş_ISIM   sabır_ISIM_YOKLUK  coşkun_ISIM   göster_FIIL   kendi_ISIM   al_FIIL_OLUMSUZ
