@@ -1,4 +1,3 @@
 # nlp_text2music
-natural language processing for Turkish Language
-
-Emotional analysis of text
+Utilized Natural Language Processing (NLP) and machine learning algorithms to understand the 
+emotions of a given text in Turkish. 
